@@ -29,3 +29,9 @@ The following animation demonstrates the application functionality:
 
 <img width="1050" alt="Screen Shot 2022-06-21 at 4 06 21 PM" src="https://user-images.githubusercontent.com/105446523/174888232-8a40b421-8a5b-433c-9d1c-ee9565565784.png">
 
+<img width="933" alt="Screen Shot 2022-06-21 at 4 07 33 PM" src="https://user-images.githubusercontent.com/105446523/174888805-6aa5e5b9-c45f-488e-9947-da80fbda4cee.png">
+
+<img width="724" alt="Screen Shot 2022-06-21 at 4 10 08 PM" src="https://user-images.githubusercontent.com/105446523/174888831-b0af2779-5c2d-42d2-9be4-42a5905995a1.png">
+
+
+
