@@ -26,3 +26,6 @@ As you proceed in your career as a web developer, you will probably be asked to 
 The following animation demonstrates the application functionality:
 
 ![websnappr20220621-104547-5bim15](https://user-images.githubusercontent.com/105446523/174880906-fcf81b4b-8a37-40ef-ae0c-9a257231366c.png)
+
+<img width="1050" alt="Screen Shot 2022-06-21 at 4 06 21 PM" src="https://user-images.githubusercontent.com/105446523/174888232-8a40b421-8a5b-433c-9d1c-ee9565565784.png">
+
