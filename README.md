@@ -23,9 +23,7 @@ As you proceed in your career as a web developer, you will probably be asked to 
  
  
  Mock-Up
-The following animation demonstrates the application functionality:
-
-<div style="width:100%;height:0;padding-bottom:47%;position:relative;"><iframe src="https://giphy.com/embed/5w59DwtMOCCGw3JLxY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/5w59DwtMOCCGw3JLxY">via GIPHY</a></p>
+The following animation demonstrates the application functionalites
 
 
 
