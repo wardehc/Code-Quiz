@@ -25,6 +25,10 @@ As you proceed in your career as a web developer, you will probably be asked to 
  Mock-Up
 The following animation demonstrates the application functionality:
 
+<iframe src="https://giphy.com/embed/5w59DwtMOCCGw3JLxY" width="480" height="224" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5w59DwtMOCCGw3JLxY">via GIPHY</a></p>
+
+
+
 ![websnappr20220621-104547-5bim15](https://user-images.githubusercontent.com/105446523/174880906-fcf81b4b-8a37-40ef-ae0c-9a257231366c.png)
 
 <img width="1050" alt="Screen Shot 2022-06-21 at 4 06 21 PM" src="https://user-images.githubusercontent.com/105446523/174888232-8a40b421-8a5b-433c-9d1c-ee9565565784.png">
